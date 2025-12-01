@@ -1,1 +1,1 @@
-# declartiva
+# declarativa
